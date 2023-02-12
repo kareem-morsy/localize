@@ -1,0 +1,8 @@
+{
+    "home": "Home",
+    "page2": "Page 2",
+    "change-username": "Change your username:",
+    "submit": "Submit",
+    "this-is-page2": "This is <strong>page 2</strong>",
+    "go-to-page2": "Click <0>here</0> to go to page 2, {{username}}"
+}

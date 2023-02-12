@@ -1,0 +1,8 @@
+{ 
+    "home": "Casa",
+    "page2": "Página 2",
+    "change-username": "Cambia tu nombre de usuario:",
+    "submit": "Enviar",
+    "this-is-page2": "Esta es la <strong>página 2</strong>",
+    "go-to-page2": "Haga clic <0>aquí</0> para ir a la página 2, {{username}}"
+}
